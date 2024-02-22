@@ -21,6 +21,7 @@
 - 🟩 Green is DEFINITELY my favorite color
 - ❓ Interested in **Web Development** and **Software Design**
 - 🌱 Currently learning about **React** and **React Native**
+- 📝 Following Github Education's learning path
 - 📫 Contact me at **daniloluswi@gmail.com**
 <!-- Fin de intro -->
 
